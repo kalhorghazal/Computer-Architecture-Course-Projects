@@ -1,3 +1,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/kalhorghazal/House-Price-Prediction-in-Verilog
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/kalhorghazal/Mips-SingleCycle
