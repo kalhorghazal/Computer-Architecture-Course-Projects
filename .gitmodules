@@ -4,3 +4,6 @@
 [submodule "CA2"]
 	path = CA2
 	url = https://github.com/kalhorghazal/Mips-SingleCycle
+[submodule "CA3"]
+	path = Mips-MultiCycle
+	url = https://github.com/kalhorghazal/Mips-MultiCycle
